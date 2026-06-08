@@ -59,7 +59,7 @@ export function Analysis() {
         transition={{ delay: 0.6, duration: 0.4 }}
       >
         <a
-          href="https://docs.google.com/spreadsheets/d/1nPEqoe4Uf1JJF8NpaelUBkP_A_wYGvQn/edit?gid=1464435018#gid=1464435018"
+          href="https://docs.google.com/spreadsheets/d/1DPxPazSFc8eirxjpcxLbquFe19MJZR1E/edit?gid=1464435018#gid=1464435018"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-6 py-3 bg-[#004A99] hover:bg-[#003B7A] text-white rounded-full text-[11px] md:text-xs font-bold uppercase tracking-widest transition-colors shadow-sm"
