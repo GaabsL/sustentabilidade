@@ -143,27 +143,32 @@ export const ANALYSIS_DATA = [
   {
     title: 'Sacolas',
     color: THEME_COLORS.sacolas,
-    text: 'Maior pauta em volume (30 posts) e alcance absoluto (1,5M), presente nas 4 redes. TikTok (5,55%) e Instagram Stories (5,14%) entregam os melhores engajamentos de toda a análise, indicando que formatos dinâmicos e curtos geram alta conexão. O volume de influenciadores no IG Feed amplificou o alcance, com engajamento mais conservador (1,25%).'
+    text: 'Maior pauta em volume (30 posts) e alcance absoluto (1,5M), presente nas 4 redes. TikTok (5,55%) e Instagram Stories (5,14%) entregam os melhores engajamentos de toda a análise, indicando que formatos dinâmicos e curtos geram alta conexão. O volume de influenciadores no IG Feed amplificou o alcance, com engajamento mais conservador (1,25%).',
+    topPostLink: 'https://www.tiktok.com/@assaiatacadistaoficial/video/7619430493628550408'
   },
   {
     title: 'Academia Assaí',
     color: THEME_COLORS.academiaAssai,
-    text: 'Melhor equilíbrio entre alcance e engajamento: apenas 6 posts no IG Stories geraram 19.448 interações e 3,17% de engajamento médio. O post "Dia do Confeiteiro" foi o de maior performance individual de toda a análise (158K alcance · 4,86% eng.). Oportunidade clara de expansão para outras redes.'
+    text: 'Melhor equilíbrio entre alcance e engajamento: apenas 6 posts no IG Stories geraram 19.448 interações e 3,17% de engajamento médio. O post "Dia do Confeiteiro" foi o de maior performance individual de toda a análise (158K alcance · 4,86% eng.). Oportunidade clara de expansão para outras redes.',
+    topPostLink: '#'
   },
   {
     title: 'Serviços Financeiros',
     color: THEME_COLORS.servicosFinanceiros,
-    text: 'Maior volume de publicações (12 posts) e presença em todas as redes. TikTok se destaca com 4,42% de engajamento mesmo com menor alcance absoluto. Posts impulsionados no Facebook inflam o alcance (195K) mas comprimem o engajamento (0,52%). Atenção ao balanceamento entre distribuição orgânica e paga.'
+    text: 'Maior volume de publicações (12 posts) e presença em todas as redes. TikTok se destaca com 4,42% de engajamento mesmo com menor alcance absoluto. Posts impulsionados no Facebook inflam o alcance (195K) mas comprimem o engajamento (0,52%). Atenção ao balanceamento entre distribuição orgânica e paga.',
+    topPostLink: 'https://www.tiktok.com/@assaiatacadistaoficial/video/7595961991383207186'
   },
   {
     title: 'Sustentabilidade',
     color: THEME_COLORS.sustentabilidade,
-    text: '(SUSTENTÁVEL, RECICLAGEM, @serenaenergiabr). Engajamento consistente (1,25% médio), mas volume muito abaixo do potencial estratégico da pauta.'
+    text: '(SUSTENTÁVEL, RECICLAGEM, @serenaenergiabr). Engajamento consistente (1,25% médio), mas volume muito abaixo do potencial estratégico da pauta.',
+    topPostLink: 'https://www.instagram.com/p/DVd3u5mjqYz/'
   },
   {
     title: 'Instituto Assaí',
     color: THEME_COLORS.institutoAssai,
     isWide: true,
-    text: 'Presença restrita ao Instagram Feed, com apenas 2 publicações no período — temas relevantes como Segurança Alimentar e "Alimento a Gente Compartilha". O engajamento (0,66%) está dentro da média da plataforma, mas a baixa frequência limita o impacto institucional. Recomenda-se ampliar a distribuição para Stories e demais redes e aumentar a cadência de publicações para fortalecer o posicionamento da marca como agente de transformação social.'
+    text: 'Presença restrita ao Instagram Feed, com apenas 2 publicações no período — temas relevantes como Segurança Alimentar e "Alimento a Gente Compartilha". O engajamento (0,66%) está dentro da média da plataforma, mas a baixa frequência limita o impacto institucional. Recomenda-se ampliar a distribuição para Stories e demais redes e aumentar a cadência de publicações para fortalecer o posicionamento da marca como agente de transformação social.',
+    topPostLink: 'https://www.instagram.com/reel/DTxuJOxjgtO/'
   }
 ];
