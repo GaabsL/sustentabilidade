@@ -50,6 +50,24 @@ export function Analysis() {
           </motion.div>
         ))}
       </div>
+
+      <motion.div 
+        className="mt-8 md:mt-10 flex justify-center"
+        initial={{ opacity: 0, y: 15 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ delay: 0.6, duration: 0.4 }}
+      >
+        <a
+          href="https://docs.google.com/spreadsheets/d/1nPEqoe4Uf1JJF8NpaelUBkP_A_wYGvQn/edit?gid=1464435018#gid=1464435018"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-6 py-3 bg-[#004A99] hover:bg-[#003B7A] text-white rounded-full text-[11px] md:text-xs font-bold uppercase tracking-widest transition-colors shadow-sm"
+        >
+          <ExternalLink size={14} strokeWidth={2.5} />
+          Link dos Posts
+        </a>
+      </motion.div>
     </Section>
   );
 }
